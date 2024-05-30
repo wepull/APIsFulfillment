@@ -1,0 +1,11 @@
+orderId,correlationOrder,associatedDocument,associatedDocumentDate,type,infraType,description,updateDate,action,expectedStatus
+12345,54321,"Doc001","2022-01-01","TypeA","InfraX","This is a description","2022-01-02","Action1","Status1"
+12346,64321,"Doc002","2022-01-03","TypeB","InfraY","This is another description","2022-01-04","Action2","Status2"
+12347,74321,"Doc003","2022-01-05","TypeC","InfraZ","This is yet another description","2022-01-06","Action3","Status3"
+12348,84321,"Doc004","2022-01-07","TypeD","InfraA","This is a different description","2022-01-08","Action4","Status4"
+12349,94321,"Doc005","2022-01-09","TypeE","InfraB","This is a unique description","2022-01-10","Action5","Status5"
+12350,04321,"Doc006","2022-01-11","TypeF","InfraC","This is a new description","2022-01-12","Action6","Status6"
+12351,14321,"Doc007","2022-01-13","TypeG","InfraD","This is an old description","2022-01-14","Action7","Status7"
+12352,24321,"Doc008","2022-01-15","TypeH","InfraE","This is a random description","2022-01-16","Action8","Status8"
+12353,34321,"Doc009","2022-01-17","TypeI","InfraF","This is a specific description","2022-01-18","Action9","Status9"
+12354,44321,"Doc010","2022-01-19","TypeJ","InfraG","This is a generic description","2022-01-20","Action10","Status10"
