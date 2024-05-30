@@ -1,0 +1,11 @@
+orderId,associatedDocument,subscriberId,statusCode,responseType,responseCode,responseMessage
+"20230315000001","DOC123","SUB001",200,"Success",100,"Transaction completed successfully"
+"20230315000002","DOC124","SUB002",200,"Success",100,"Transaction completed successfully"
+"20230315000003","DOC125","SUB003",400,"Error",200,"Invalid subscriber ID"
+"20230315000004","DOC126","SUB004",500,"Error",300,"Internal server error"
+"20230315000005","DOC127","SUB005",200,"Success",100,"Transaction completed successfully"
+"20230315000006","DOC128","SUB006",400,"Error",200,"Invalid subscriber ID"
+"20230315000007","DOC129","SUB007",200,"Success",100,"Transaction completed successfully"
+"20230315000008","DOC130","SUB008",500,"Error",300,"Internal server error"
+"20230315000009","DOC131","SUB009",200,"Success",100,"Transaction completed successfully"
+"20230315000010","DOC132","SUB010",400,"Error",200,"Invalid subscriber ID"
